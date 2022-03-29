@@ -1,25 +1,26 @@
-tcps://express.dhl.ru 
-185.165.123.50 (443/tcp)
-217.73.60.2 (443/tcp)
-
-tcps://ponyexpress.ru 
-185.10.63.194 (80/tcp , 443/tcp)
-82.146.44.236 (80/tcp , 443/tcp)
-95.163.180.40 (80/tcp , 443/tcp)
-185.10.63.192 (80/tcp , 443/tcp)
-
-tcps://dostavista.ru 
-185.71.67.112 (80/tcp , 443/tcp)
-185.215.4.10 (80/tcp , 443/tcp)
-
-tcps://delivery-club.ru 
-5.61.236.230 (80/tcp , 443/tcp)
-128.140.175.200 (80/tcp , 443/tcp)
-128.140.175.205 (80/tcp , 443/tcp)
-
-tcps://dotochki.com 
-195.42.165.13 (80/tcp , 443/tcp)
-
-tcps://broniboy.ru 
-185.137.235.138 (80/tcp , 443/tcp)
-82.202.251.98 (80/tcp , 443/tcp)
+https://woodresource.ru 
+80.87.197.227 (22/tcp, 80/tcp, 443/tcp)
+http://dev1.woodresource.com  
+80.87.197.227 (80/tcp)
+https://old.woodresource.ru 
+62.109.13.251 (22/tcp, 53/tcp, 80/tcp, 111/tcp, 443/tcp)
+https://rosles.net 
+87.236.16.235 (21/tcp, 80/tcp, 443/tcp)
+https://lesoseka.com 
+185.154.54.3 (21/tcp, 22/tcp, 25/tcp, 53/tcp, 80/tcp, 110/tcp, 111/tcp, 143/tcp, 443/tcp, 465/tcp)
+https://rosleshoz.gov.ru 
+82.202.190.169 (80/tcp, 443/tcp)
+https://lesozagotovka.com 
+5.23.51.63 (21/tcp, 22/tcp, 80/tcp, 443/tcp)
+https://lesegais.ru 
+95.173.158.40 (25/tcp, 80/tcp, 443/tcp)
+https://m.lesegais.ru 
+95.173.158.38 (80/tcp, 443/tcp)
+https://www.lesprom.com/ru/ 
+93.95.99.221 (21/tcp, 25/tcp, 80/tcp, 111/tcp, 443/tcp, 465/tcp)
+https://www.lesonline.ru/ 
+92.62.112.153 (80/tcp, 443/tcp)
+https://пиломатериалы.рф/ (xn--80aaokcpedrhrw6j.xn--p1ai)
+185.32.58.202 (80/tcp, 443/tcp)
+https://www.wood.ru/ 
+83.222.4.160 (80/tcp, 443/tcp)
