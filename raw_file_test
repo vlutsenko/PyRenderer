@@ -1,26 +1,20 @@
-https://woodresource.ru 
-80.87.197.227 (22/tcp, 80/tcp, 443/tcp)
-http://dev1.woodresource.com  
-80.87.197.227 (80/tcp)
-https://old.woodresource.ru 
-62.109.13.251 (22/tcp, 53/tcp, 80/tcp, 111/tcp, 443/tcp)
-https://rosles.net 
-87.236.16.235 (21/tcp, 80/tcp, 443/tcp)
-https://lesoseka.com 
-185.154.54.3 (21/tcp, 22/tcp, 25/tcp, 53/tcp, 80/tcp, 110/tcp, 111/tcp, 143/tcp, 443/tcp, 465/tcp)
-https://rosleshoz.gov.ru 
-82.202.190.169 (80/tcp, 443/tcp)
-https://lesozagotovka.com 
-5.23.51.63 (21/tcp, 22/tcp, 80/tcp, 443/tcp)
-https://lesegais.ru 
-95.173.158.40 (25/tcp, 80/tcp, 443/tcp)
-https://m.lesegais.ru 
-95.173.158.38 (80/tcp, 443/tcp)
-https://www.lesprom.com/ru/ 
-93.95.99.221 (21/tcp, 25/tcp, 80/tcp, 111/tcp, 443/tcp, 465/tcp)
-https://www.lesonline.ru/ 
-92.62.112.153 (80/tcp, 443/tcp)
-https://пиломатериалы.рф/ (xn--80aaokcpedrhrw6j.xn--p1ai)
-185.32.58.202 (80/tcp, 443/tcp)
-https://www.wood.ru/ 
-83.222.4.160 (80/tcp, 443/tcp)
+https://minfin.gov.ru  
+195.80.224.185 (80/tcp, 443/tcp)
+
+https://minjust.gov.ru/  
+95.173.157.26 (80/tcp, 443/tcp)
+
+https://minenergo.gov.ru/  
+95.173.157.11 (80/tcp, 443/tcp)
+
+https://mintrud.gov.ru/  
+95.173.157.11 (80/tcp, 443/tcp)
+
+http://www.minsport.gov.ru/  
+194.226.91.5 (80/tcp, 443/tcp)
+
+https://minstroyrf.gov.ru/  
+185.183.174.114 (80/tcp, 443/tcp)
+
+https://digital.gov.ru/  
+212.164.137.119 (80/tcp, 443/tcp)
