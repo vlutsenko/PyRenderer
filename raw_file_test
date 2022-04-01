@@ -1,20 +1,53 @@
-https://minfin.gov.ru  
-195.80.224.185 (80/tcp, 443/tcp)
+https://hh.ru/ 
+94.124.200.0 (80/tcp, 443/tcp)
+https://api.hh.ru/ 
+94.124.200.0 (80/tcp, 443/tcp)
+https://rest-domains.hh.ru 
+94.124.200.1 (80/tcp, 443/tcp)
+ns.hh.ru         
+94.124.200.34 (53/tcp, 53/udp)
+mx3.hh.ru 
+94.124.205.87 (25/tcp)
 
-https://minjust.gov.ru/  
-95.173.157.26 (80/tcp, 443/tcp)
+https://www.superjob.ru/ 
+91.206.147.1 (80/tcp, 443/tcp)
+91.206.147.2 (80/tcp, 443/tcp)
+https://api.superjob.ru/ 
+91.206.147.4 (80/tcp, 443/tcp)
+91.206.147.3 (80/tcp, 443/tcp)
 
-https://minenergo.gov.ru/  
-95.173.157.11 (80/tcp, 443/tcp)
+https://www.zarplata.ru/ 
+194.226.54.20 (80/tcp, 443/tcp)
+https://api.zp.ru 
+194.226.54.32 (80/tcp, 443/tcp)
+https://auth.zarplata.ru/ 
+194.226.54.42 (80/tcp, 443/tcp)
+https://hr.zarplata.ru/ 
+194.226.54.22 (80/tcp, 443/tcp)
 
-https://mintrud.gov.ru/  
-95.173.157.11 (80/tcp, 443/tcp)
+https://rabota.vk.com/ 
+95.163.181.225 (80/tcp, 443/tcp)
+95.163.215.5 (80/tcp, 443/tcp)
 
-http://www.minsport.gov.ru/  
-194.226.91.5 (80/tcp, 443/tcp)
+https://fut.ru/ 
+78.155.196.235 (22/udp, 53/udp, 80/tcp, 443/tcp)
+https://api.unilever.fut.ru/ 
+45.130.150.63 (80/tcp, 443/tcp, 465/tcp, 995/tcp)
 
-https://minstroyrf.gov.ru/  
-185.183.174.114 (80/tcp, 443/tcp)
+https://www.avito.ru/ 
+146.158.54.24 (80/tcp, 443/tcp)
+146.158.52.24 (80/tcp, 443/tcp)
+146.158.48.24 (80/tcp, 443/tcp)
 
-https://digital.gov.ru/  
-212.164.137.119 (80/tcp, 443/tcp)
+https://m.avito.ru
+146.158.54.16 (80/tcp, 443/tcp)
+146.158.48.16 (80/tcp, 443/tcp)
+146.158.52.16 (80/tcp, 443/tcp)
+
+https://avito.ru
+146.158.48.21 (80/tcp, 443/tcp)
+146.158.54.21 (80/tcp, 443/tcp)
+146.158.52.21 (80/tcp, 443/tcp)
+
+https://jobs.projects.avito.ru
+185.165.123.36 (80/tcp, 443/tcp)
