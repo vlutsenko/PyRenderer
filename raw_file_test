@@ -1,53 +1,42 @@
-https://hh.ru/ 
-94.124.200.0 (80/tcp, 443/tcp)
-https://api.hh.ru/ 
-94.124.200.0 (80/tcp, 443/tcp)
-https://rest-domains.hh.ru 
-94.124.200.1 (80/tcp, 443/tcp)
-ns.hh.ru         
-94.124.200.34 (53/tcp, 53/udp)
-mx3.hh.ru 
-94.124.205.87 (25/tcp)
+https://cdek.ru
+178.248.238.208 (80/tcp, 443/tcp)
+https://lk.cdek.ru/user/login
+178.248.236.155 (80/tcp, 443/tcp)
+https://api.cdek.ru
+178.248.238.184 (80/tcp, 443/tcp)
+https://id.ds.cdek.ru
+178.248.238.63 (80/tcp, 443/tcp)
 
-https://www.superjob.ru/ 
-91.206.147.1 (80/tcp, 443/tcp)
-91.206.147.2 (80/tcp, 443/tcp)
-https://api.superjob.ru/ 
-91.206.147.4 (80/tcp, 443/tcp)
-91.206.147.3 (80/tcp, 443/tcp)
+https://boxberry.ru/
+178.248.235.44 (80/tcp, 443/tcp)
+https://account.boxberry.ru
+https://api.boxberry.ru
+178.248.239.17 (80/tcp, 443/tcp)
+https://lk.boxberry.ru
+178.248.239.22 (80/tcp, 443/tcp)
+https://ecwid.boxberry.ru
+193.107.238.158 (22/tcp, 80/tcp, 443/tcp)
+https://service.boxberry.ru
+178.248.239.19 (80/tcp, 443/tcp)
+https://jira.boxberry.ru
+178.248.239.21 (80/tcp, 443/tcp)
 
-https://www.zarplata.ru/ 
-194.226.54.20 (80/tcp, 443/tcp)
-https://api.zp.ru 
-194.226.54.32 (80/tcp, 443/tcp)
-https://auth.zarplata.ru/ 
-194.226.54.42 (80/tcp, 443/tcp)
-https://hr.zarplata.ru/ 
-194.226.54.22 (80/tcp, 443/tcp)
 
-https://rabota.vk.com/ 
-95.163.181.225 (80/tcp, 443/tcp)
-95.163.215.5 (80/tcp, 443/tcp)
+https://www.cse.ru/
+178.248.232.188 (80/tcp, 443/tcp)
+https://lk.cse.ru 
+178.248.232.125 (80/tcp, 443/tcp)
+https://api.cse.ru 
+185.65.22.35 (80/tcp, 443/tcp, 53/tcp, 53/udp, 5060/tcp)
+aba.cse.ru 
+185.65.22.38 (25/tcp, 53/tcp, 53/udp)
+https://web.cse.ru 
+178.248.237.223 (80/tcp, 443/tcp)
 
-https://fut.ru/ 
-78.155.196.235 (22/udp, 53/udp, 80/tcp, 443/tcp)
-https://api.unilever.fut.ru/ 
-45.130.150.63 (80/tcp, 443/tcp, 465/tcp, 995/tcp)
-
-https://www.avito.ru/ 
-146.158.54.24 (80/tcp, 443/tcp)
-146.158.52.24 (80/tcp, 443/tcp)
-146.158.48.24 (80/tcp, 443/tcp)
-
-https://m.avito.ru
-146.158.54.16 (80/tcp, 443/tcp)
-146.158.48.16 (80/tcp, 443/tcp)
-146.158.52.16 (80/tcp, 443/tcp)
-
-https://avito.ru
-146.158.48.21 (80/tcp, 443/tcp)
-146.158.54.21 (80/tcp, 443/tcp)
-146.158.52.21 (80/tcp, 443/tcp)
-
-https://jobs.projects.avito.ru
-185.165.123.36 (80/tcp, 443/tcp)
+https://mercury.vetrf.ru/
+62.76.145.81 (80/tcp, 443/tcp) 
+http://api.vetrf.ru/
+62.76.145.80 (80/tcp, 443/tcp) 
+https://vetrf.ru/
+https://idp.vetrf.ru/idp/profile/SAML2/POST/SSO?execution=e1s1
+62.76.145.83 (80/tcp, 443/tcp)
