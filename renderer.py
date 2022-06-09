@@ -2,7 +2,7 @@ import re
 
 ###templates for file
 templ_begin = "docker run -it --rm --pull always ghcr.io/porthole-ascend-cinnamon/mhddos_proxy:latest "
-templ_end = " -t 1000 -p 1200 --rpc 1000  --debug"
+templ_end = " -t 1000 --rpc 1000  --debug"
 
 file1 = open('raw_file_test', 'r')
 Lines = file1.readlines()
